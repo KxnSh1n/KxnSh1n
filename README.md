@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KxnSh1n
-- 👀 I’m interested in ...
+- 👀 I’m interested in <h1>Programming</h1>
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: e-mail: kxnrojishin@gmail.com
